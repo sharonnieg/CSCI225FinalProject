@@ -1,0 +1,7 @@
+11 / 12 / 2026
+1. So far, we have decided to show 21 recipes; 7 breakfast, 7 lunch, and 7 dinner. 
+
+2. Ava will be focusing on frontend development while Sharonnie will focus on backend. 
+    Frontend in this case includes: html, css, react, and javascript. Backend includes: 
+    java, sql, and possibly node.js. While we have "focus" areas, team members will 
+    work together and collaborate on both front and backend development. 
