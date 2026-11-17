@@ -5,3 +5,12 @@
     Frontend in this case includes: html, css, react, and javascript. Backend includes: 
     java, sql, and possibly node.js. While we have "focus" areas, team members will 
     work together and collaborate on both front and backend development. 
+
+11 / 17 / 2026
+1. We plan to have 7 recipes for each category; including 3 that are simple and easy to make, 2 that 
+    require a little more effort, and 2 that require actual cooking. 
+
+2. For the image gallery, we plan on having one that changes images automatically. This is 
+    a link to an image gallery that the user clicks through but can still be used as 
+    a reference.
+    https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
