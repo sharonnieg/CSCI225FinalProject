@@ -14,3 +14,10 @@
     a link to an image gallery that the user clicks through but can still be used as 
     a reference.
     https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
+
+11 / 19 / 2026
+1. Search and Filter Reference:
+    https://www.w3schools.com/howto_js_filter_lists.asp
+
+2. Scrolling Image Gallery Reference:
+    https://gsap.com/community/forums/topic/33815-auto-infinite-scroll-image-gallery/
